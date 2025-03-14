@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <h1>About Me</h1>
-      <p>Here you can learn about my education: I am majoring in computer science, skills: I can play football, and career goals: I want to be an entrupener .</p>
+      <p>Here you can learn about my education: Dalhousie University 4th year computer science, I want to be a future entrupenur.</p>
     </div>
   );
 };

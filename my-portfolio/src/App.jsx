@@ -4,8 +4,8 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
-import NotFound from "./pages/NotFound";
-import "./App.css"; 
+import NotFound from "./pages/NotFound"; 
+import "./App.css";
 
 const App = () => {
   return (
